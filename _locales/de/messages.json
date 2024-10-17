@@ -1062,7 +1062,7 @@
     "messageformat": "{obsoleteConversationTitle} und {conversationTitle} gehören zum selben Konto. Deinen Nachrichtenverlauf für beide Chats findest du hier."
   },
   "icu:ConversationMerge--notification--with-e164": {
-    "messageformat": "Dein Nachrichtenverlauf mit {conversationTitle} und seiner:ihrer Nummer {obsoleteConversationNumber} wurde zusammengeführt."
+    "messageformat": "Dein Nachrichtenverlauf mit {conversationTitle} und dessen alter Nummer {obsoleteConversationNumber} wurde zusammengeführt."
   },
   "icu:ConversationMerge--notification--no-title": {
     "messageformat": "Dein Nachrichtenverlauf mit {conversationTitle} und einem anderen Chat, der dazu gehört, wurde zusammengeführt."
@@ -1773,7 +1773,7 @@
     "messageformat": "Bearbeitungen können nur innerhalb von 24 Stunden ab dem Senden dieser Nachricht vorgenommen werden."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} ist kein*e Signal-Nutzer*in. Vergewissere dich, dass du den vollständigen Nutzernamen eingegeben hast."
+    "messageformat": "{atUsername} nutzt Signal nicht. Vergewissere dich, dass du den vollständigen Nutzernamen eingegeben hast."
   },
   "icu:startConversation--phone-number-not-found": {
     "messageformat": "Nutzer nicht gefunden. »{phoneNumber}« ist kein Signal-Nutzer."
@@ -2814,7 +2814,7 @@
     "messageformat": "Seitenleistenansicht"
   },
   "icu:calling__view_mode--speaker": {
-    "messageformat": "Sprecher*in-Ansicht"
+    "messageformat": "Sprecher-Ansicht"
   },
   "icu:calling__view_mode--updated": {
     "messageformat": "Ansicht aktualisiert"
@@ -5671,7 +5671,7 @@
     "messageformat": "Anrufname"
   },
   "icu:TypingBubble__avatar--overflow-count": {
-    "messageformat": "{count, plural, one {{count,number} andere*r schreibt etwas.} other {{count,number} andere schreiben etwas.}}"
+    "messageformat": "{count, plural, one {{count,number} anderer schreibt etwas.} other {{count,number} andere schreiben etwas.}}"
   },
   "icu:TransportError": {
     "messageformat": "Experimental WebSocket Transport is seeing too many errors. Please submit a debug log"
